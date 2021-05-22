@@ -2,3 +2,7 @@ html
 java script
 git git hub
 php
+excel
+word
+acces
+makro
